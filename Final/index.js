@@ -10,7 +10,7 @@ let recompensas = ['Chave', 'Duck, o Pato de Borracha', 'Moeda', 'Moeda', 'Moeda
  ************************************************************************************/
 
 function taverna(){
-    console.log ('Bem vindo(a) ' + EXPLORADOR + ', você entrou na Taverna!');
+    console.log ('Bem vindo' + EXPLORADOR + ', você entrou na Taverna!');
         if (energia < 5){
             for (let i = 1; energia < 5; i++) {           
                 energia += 1;
