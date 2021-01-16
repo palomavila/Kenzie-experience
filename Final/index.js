@@ -27,10 +27,10 @@ function taverna(){
 
 function pegarItem (item){
         if (item === 'Moeda'){
-            console.log ('PARABÉNS ' + EXPLORADOR + '! Você ganhou uma MOEDA!');
+            console.log ('PARABÉNS ' + EXPLORADOR + '! Tu ganhou uma Moeda!');
             moedas += 1;
         }else{
-            console.log ('PARABÉNS ' + EXPLORADOR + '! Você ganhou um ITEM!');
+            console.log ('PARABÉNS ' + EXPLORADOR + '! Tu ganhou um Item!');
             bolsaDeItens.push(item);
         }         
     }
@@ -40,7 +40,7 @@ function pegarItem (item){
  ************************************************************************************/
 
 function batalha(){
-    console.log(EXPLORADOR + ' encontrou um MONSTRO!');
+    console.log(EXPLORADOR + ' encontrou um Monstro!');
     if (energia < 1){
         console.log (EXPLORADOR + ' fugiu para a Taverna.');
         return false;
