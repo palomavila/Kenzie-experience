@@ -1,5 +1,5 @@
 /************************************************************************************
- *                                    PASSO 1                                       
+ *                                    PASSO 1                                      */ 
 const EXPLORADOR = 'Paloma';
 let bolsaDeItens = [];
 let moedas = 0;
