@@ -2,5 +2,7 @@
 Atividades realizadas durante a Experiência Kenzie em 2020.
 
 
-# Kenzie Academy Brazil
+# Aprendizados 
+
+Este curso foi ministrado pela Kenzie Academy Brasil com intuito de aplicar os principais conceitos sobre JavaScript.
 👩🏽‍💻👩🏽‍💻
