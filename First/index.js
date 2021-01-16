@@ -22,7 +22,7 @@ function calcularMedia (arrayNotas){
 
 function avaliacao (mediaTotal){    
     if(mediaTotal === 100){
-        console.log('O aluno passou com nota maxima!');
+        console.log('O aluno passou com a nota máxima!');
         return true;
     } else if (mediaTotal >= 70) {
         console.log('O aluno passou!');
